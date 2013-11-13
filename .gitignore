@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 *.class
 *.merge-left*
 *.merge-right*
@@ -10,3 +11,23 @@
 _svn
 svn-commit*.tmp
 
+=======
+*.gem
+*.rbc
+.bundle
+.config
+coverage
+InstalledFiles
+lib/bundler/man
+pkg
+rdoc
+spec/reports
+test/tmp
+test/version_tmp
+tmp
+
+# YARD artifacts
+.yardoc
+_yardoc
+doc/
+>>>>>>> 825775ce2194bae7ec323b9f5130149190a363ff
